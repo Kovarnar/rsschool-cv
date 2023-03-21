@@ -9,6 +9,7 @@
   + **E-mail:** sidorova.mariia@gmail.com
   + **GitHub:** [kovarnar](https://github.com/Kovarnar)
   + **Linkedin:** [linkedin.com/in/mariia-shmatok/](https://www.linkedin.com/in/mariia-shmatok/)
+
 -----
 
 ## **About me**
@@ -24,6 +25,7 @@ Hi, I'm Mariia, a beginner frontend developer with a passion for creating visual
   - Git, GitHub
   - VSCode, Sublime Text
   - Figma
+
 -----
 
 ## **Code example:**
@@ -43,6 +45,7 @@ Hi, I'm Mariia, a beginner frontend developer with a passion for creating visual
   * National Technical University «Kharkiv Polytechnic Institute» | Metrology, standardization and certification
   * Beetroot Academy | Frontend development
   * Prometheus | Basics of Web UI development
+  
 -----
 
 ## **Languages**
