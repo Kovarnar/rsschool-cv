@@ -42,9 +42,9 @@ Hi, I'm Mariia, a beginner frontend developer with a passion for creating visual
 ------
 
 ## **Education**
-  * National Technical University «Kharkiv Polytechnic Institute» \| Metrology, standardization and certification
-  * Beetroot Academy \| Frontend development
-  * Prometheus \| Basics of Web UI development
+  * National Technical University «Kharkiv Polytechnic Institute» - Metrology, standardization and certification
+  * Beetroot Academy - Frontend development
+  * Prometheus - Basics of Web UI development
 
 -----
 
