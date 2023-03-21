@@ -5,8 +5,135 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CV</title>
+  <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-
+  <h1 class="visually-hidden">CV junior Fronten developer</h1>
+  <header class="header">
+    <div class="container">
+      <picture class="header__photo">
+        <source media="(orientation: portrait)" srcset="/assets/img/photo.webp">
+        <img src="./assets/img/photo.jpg" alt="avatar/photo" width="227" height="302"> <!-- 569 x 758 width="227.6" height="303.2"-->
+      </picture>
+      <div class="header__content">
+        <span class="header__name">Mariia Shmatok</span>
+        <h2 class="header__career">Frontend developer</h2>
+        <ul class="header__contacts contacts">
+          <li class="contacts__item">
+            <a class="contacts__item-link" href="https://goo.gl/maps/cyBW7LSXJV3fVstA9" target="_blank">
+              <svg class="icon">
+                <use xlink:href="./assets/img/sprite.svg#location"></use>
+              </svg>
+              Kyiv, Ukraine
+            </a>
+          </li>
+          <li class="contacts__item">
+            <a class="contacts__item-link" href="tel:+380662990555">
+              <svg class="icon">
+                  <use xlink:href="./assets/img/sprite.svg#phone"></use>
+              </svg>
+              +38(066)299-05-55
+            </a>
+          </li>
+          <li class="contacts__item">
+            <a class="contacts__item-link" href="mailto:sidorova.mariia@gmail.com">
+              <svg class="icon">
+                <use xlink:href="./assets/img/sprite.svg#envelope"></use>
+              </svg>
+              sidorova.mariia@gmail.com
+            </a>
+          </li>
+          <li class="contacts__item">
+            <a class="contacts__item-link" href="https://www.linkedin.com/in/mariia-shmatok/" target="_blank">
+              <svg class="icon">
+                <use xlink:href="./assets/img/sprite.svg#linkedin"></use>
+              </svg>
+              linkedin.com/in/mariia-shmatok/
+            </a>
+          </li>
+          <li class="contacts__item">
+            <a class="contacts__item-link" href="https://github.com/Kovarnar" target="_blank">
+              <svg class="icon">
+                <use xlink:href="./assets/img/sprite.svg#github"></use>
+              </svg>
+              kovarnar
+            </a>
+          </li>
+          <li class="contacts__item">
+            <a class="contacts__item-link" href="https://telegram.me/mariiashmatok" target="_blank">
+              <svg class="icon icon--telegram">
+                <use xlink:href="./assets/img/sprite.svg#telegram"></use>
+              </svg>
+              @MariiaShmatok
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </header>
+  <main>
+    <section class="about">
+      <div class="container">
+        <h3 class="about__title title">ABOUT MYSELF</h3>
+        <p class="about__text text">Hi, I'm Mariia, a beginner frontend developer with a passion for creating visually appealing and user-friendly web experiences. I have experience in HTML, CSS, JavaScript and React.js. I'm excited to continue growing my skills and learning from experienced professionals in the industry. Looking for a job as frontend developer</p>
+      </div>
+    </section>
+    <section class="skills">
+      <div class="container">
+        <h3 class="skills__title title">Skills</h3>
+        <ul class="skills__list list">
+          <li class="list__item">HTML5</li>
+          <li class="list__item">CSS3, SASS/SCSS</li>
+          <li class="list__item">BEM</li>
+          <li class="list__item">JavaScript Basics</li>
+          <li class="list__item">Git, GitHub</li>
+          <li class="list__item">VSCode, Sublime Text</li>
+          <li class="list__item">Figma</li>
+        </ul>
+      </div>
+    </section>
+    <section class="education">
+      <div class="container">
+        <h3 class="education__title title">Education</h3>
+        <p class="education__text">National Technical University «Kharkiv Polytechnic Institute» - Metrology, standardization and certification</p>
+      </div>
+    </section>
+    <section class="courses">
+      <div class="container">
+        <h3 class="courses__title title">courses</h3>
+        <ul class="courses__list list">
+          <li class="list__item"></li>
+          <li class="list__item"></li>
+        </ul>
+      </div>
+    </section>
+    <section class="languages">
+      <div class="container">
+        <h3 class="languages">languages</h3>
+        <ul class="languages__list list">
+          <li class="list__item"><span>English</span> - intermediate</li>
+          <li class="list__item"><span>Ukrainian</span> - native</li>
+          <li class="list__item"><span>Russian</span> - fluently</li>
+        </ul>
+      </div>
+    </section>
+    <section class="code">
+      <div class="container">
+        <h3 class="code__title title">Code example</h3>
+        <pre class="code__example">
+          <code class="code__text text">
+    function calcArea (x, y) {
+      for (let i = 0; i &lt; 2; i++) {
+          if ((typeof arguments[i]) !== "number" || isNaN(arguments[i]) || arguments[i] &lt;= 0) {
+              return 'Enter two positive numbers';
+          }
+      }
+      return x * y;
+    }
+          </code>
+        </pre>
+      </div>
+    </section>
+  </main>
 </body>
 </html>
