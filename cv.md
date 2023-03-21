@@ -13,6 +13,7 @@
 
 ## **About me**
 Hi, I'm Mariia, a beginner frontend developer with a passion for creating visually appealing and user-friendly web experiences. I have experience in HTML, CSS, JavaScript and React.js. I'm excited to continue growing my skills and learning from experienced professionals in the industry. Looking for a job as frontend developer
+
 -----
 
 ## **Skills and Proficiency:**
@@ -41,6 +42,7 @@ Hi, I'm Mariia, a beginner frontend developer with a passion for creating visual
 ## **Education**
   * National Technical University «Kharkiv Polytechnic Institute» | Metrology, standardization and certification
   * Beetroot Academy | Frontend development
+  * Prometheus | Basics of Web UI development
 -----
 
 ## **Languages**
