@@ -21,8 +21,8 @@ Hi, I'm Mariia, a beginner frontend developer with a passion for creating visual
 -----
 
 ## **Skills and Proficiency:**
-  - HTML5
-  - CSS3, SASS/SCSS
+  - HTML
+  - CSS, SASS/SCSS
   - BEM
   - JavaScript Basics
   - Git, GitHub
