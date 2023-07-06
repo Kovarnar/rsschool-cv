@@ -1,5 +1,7 @@
 # **Mariia Shmatok**
 ## **Junior Frontend developer**
+![Alt-photo](photo.webp)
+
 -----
 
 ## **My contacts:**
@@ -9,6 +11,7 @@
   + **E-mail:** sidorova.mariia@gmail.com
   + **GitHub:** [kovarnar](https://github.com/Kovarnar)
   + **Linkedin:** [linkedin.com/in/mariia-shmatok/](https://www.linkedin.com/in/mariia-shmatok/)
+  + **Discord** Mariia (@Kovarnar)
 
 -----
 
@@ -18,8 +21,8 @@ Hi, I'm Mariia, a beginner frontend developer with a passion for creating visual
 -----
 
 ## **Skills and Proficiency:**
-  - HTML5
-  - CSS3, SASS/SCSS
+  - HTML
+  - CSS, SASS/SCSS
   - BEM
   - JavaScript Basics
   - Git, GitHub
@@ -42,13 +45,20 @@ Hi, I'm Mariia, a beginner frontend developer with a passion for creating visual
 ------
 
 ## **Education**
-  * National Technical University «Kharkiv Polytechnic Institute» | Metrology, standardization and certification
-  * Beetroot Academy | Frontend development
-  * Prometheus | Basics of Web UI development
-  
+  * National Technical University «Kharkiv Polytechnic Institute» - Metrology, standardization and certification
+  * Beetroot Academy - Frontend development
+  * Prometheus - Basics of Web UI development
+  * freeCodeCamp - JavaScript Algorithms and Data Structures
+  * Prometheus - Git for Distributed Software Development
+
 -----
 
 ## **Languages**
   + English (B1)
   + Ukrainian (native)
   + Russian (fluently)
+
+  -----
+
+## **My pogects**
+  + [Portfolio](https://kovarnar.github.io/portfolio/)
