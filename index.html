@@ -27,6 +27,14 @@
           <li class="navigation__item">
             <a class="navigation__link" href="#">
               <svg class="icon">
+                <use xlink:href="./assets/img/sprite.svg#user"></use>
+              </svg>
+              <span>Contacts</span>
+            </a>
+          </li>
+          <li class="navigation__item">
+            <a class="navigation__link" href="#">
+              <svg class="icon">
                 <use xlink:href="./assets/img/sprite.svg#gear"></use>
               </svg>
               <span>Skills</span>
@@ -40,14 +48,14 @@
               <span>Education</span>
             </a>
           </li>
-          <li class="navigation__item">
+          <!-- <li class="navigation__item">
             <a class="navigation__link" href="#">
               <svg class="icon">
                 <use xlink:href="./assets/img/sprite.svg#award"></use>
               </svg>
               <span>Courses</span>
             </a>
-          </li>
+          </li> -->
           <li class="navigation__item">
             <a class="navigation__link" href="#">
               <svg class="icon">
@@ -72,13 +80,88 @@
     <section class="main__top">
       <span class="main__top-name">Mariia Shmatok</span>
       <h2 class="main__top-profesion">Front-end developer</h2>
-
     </section>
     <section class="main__left">
-
+      <div class="main__container">
+        <div class="main__photo">
+          <picture class="photo">
+            <source media="(orientation: portrait)" srcset="/assets/img/photo.webp">
+            <img src="./assets/img/photo.jpg" alt="avatar/photo" width="294" height="294">
+          </picture>
+        </div>
+        <ul class="main__list list">
+          <li class="list__item">
+            <h3 class="list__title">About myself</h3>
+            <p class="list__text">Hi, I'm Mariia, a beginner frontend developer with a passion for creating visually appealing and user-friendly web experiences. I have experience in HTML, CSS, JavaScript and React.js. I'm excited to continue growing my skills and learning from experienced professionals in the industry. Looking for a job as frontend developer</p>
+          </li>
+          <li class="list__item">
+            <h3 class="list__title">contacts</h3>
+            <ul class="list__content content">
+              <li class="content__item">
+                <a class="content__link" href="https://goo.gl/maps/cyBW7LSXJV3fVstA9" target="_blank">
+                  <svg class="icon">
+                    <use xlink:href="./assets/img/sprite.svg#location"></use>
+                  </svg>
+                  <span>Kyiv, Ukraine</span>
+                </a>
+              </li>
+              <li class="content__item">
+                <a class="content__link" href="tel:+380662990555">
+                  <svg class="icon">
+                      <use xlink:href="./assets/img/sprite.svg#phone"></use>
+                  </svg>
+                  <span>+38(066)299&#8208;05&#8208;55</span>
+                </a>
+              </li>
+              <li class="content__item">
+                <a class="content__link" href="mailto:sidorova.mariia@gmail.com">
+                  <svg class="icon">
+                    <use xlink:href="./assets/img/sprite.svg#envelope"></use>
+                  </svg>
+                  <span>sidorova.mariia@gmail.com</span>
+                </a>
+              </li>
+              <li class="content__item">
+                <a class="content__link" href="https://github.com/Kovarnar" target="_blank">
+                  <svg class="icon">
+                    <use xlink:href="./assets/img/sprite.svg#github"></use>
+                  </svg>
+                  <span>kovarnar</span>
+                </a>
+              </li>
+              <li class="content__item">
+                <a class="content__link" href="https://telegram.me/mariiashmatok" target="_blank">
+                  <svg class="icon">
+                    <use xlink:href="./assets/img/sprite.svg#telegram"></use>
+                  </svg>
+                  <span>@MariiaShmatok</span>
+                </a>
+              </li>
+              <li class="content__item">
+                <a class="content__link" href="https://www.linkedin.com/in/mariia-shmatok/" target="_blank">
+                  <svg class="icon">
+                    <use xlink:href="./assets/img/sprite.svg#linkedin"></use>
+                  </svg>
+                  <span>linkedin.com/in/mariia-shmatok/</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
     </section>
     <section class="main__right">
-
+      <div class="main__container">
+        <ul class="main__list list">
+          <li class="list__item">
+            <h3 class="list__title">умею</h3>
+            <ul class="list__content">
+              <li class="contacts__text">1</li>
+              <li class="contacts__text">2</li>
+              <li class="contacts__text">3</li>
+            </ul>
+        </ul>
+      </div>
     </section>
   </main>
   <footer class="footer">
